@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hello, I'm Pradip
+A Curious Mind Exploring the World of Technology and Software Development
 
-<!--
-**pradip5474/pradip5474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ What I Do
+🌱 Learning and growing as a Computer Science Student
+💡 Working on innovative projects like ExamAnalysis
+📘 Passionate about Web Development, Java, and Data Structures & Algorithms
 
-Here are some ideas to get you started:
+🔍 What I'm Looking For
+🚀 Opportunities for a Software Development Internship to apply my skills and learn from real-world challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Let's Connect
+💬 I love discussing tech stacks, system design, and software solutions
+📫 Reach me at pradipmali5474@gmail.com
+🤝 Always open to collaborating on creative and impactful projects
+
+
