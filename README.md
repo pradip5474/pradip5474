@@ -1,17 +1,26 @@
-👋 Hello, I'm Pradip
+<div align="center">
+
+# 👋 Hello, I'm Pradip  
 A Curious Mind Exploring the World of Technology and Software Development
 
-🛠️ What I Do
-🌱 Learning and growing as a Computer Science Student
-💡 Working on innovative projects like ExamAnalysis
-📘 Passionate about Web Development, Java, and Data Structures & Algorithms
+</div>
 
-🔍 What I'm Looking For
-🚀 Opportunities for a Software Development Internship to apply my skills and learn from real-world challenges
+## 🛠️ **What I Do**  
+- 🌱 Learning and Growing as a **Computer Science Student**  
+- 💡 Currently working on innovative projects like **ExamAnalysis**  
+- 📘 Passionate about **Web Development**, **Java**, and **Data Structures & Algorithms**  
 
-📬 Let's Connect
-💬 I love discussing tech stacks, system design, and software solutions
-📫 Reach me at pradipmali5474@gmail.com
-🤝 Always open to collaborating on creative and impactful projects
+---
 
+## 🔍 **What I'm Looking For**  
+- 🚀 Seeking **Software Development Internship** opportunities to apply my skills and gain real-world experience  
+
+---
+
+## 📬 **Let's Connect**  
+- 💬 I enjoy discussing **tech stacks**, **system design**, and **software solutions**  
+- 📫 Reach me at **pradipmali5474@gmail.com**  
+- 🤝 Always open to **collaborating on creative and impactful projects**  
+
+---
 
