@@ -1,26 +1,21 @@
 <div align="center">
-
-# 👋 Hello, I'm Pradip  
-A Curious Mind Exploring the World of Technology and Software Development
+👋 Hello, I'm Pradip
+A Data-Driven Mind Exploring the World of Analytics and Technology
 
 </div>
+🛠️ What I Do
+📊 Learning and Growing as a Data Analytics Enthusiast
 
-## 🛠️ **What I Do**  
-- 🌱 Learning and Growing as a **Computer Science Student**  
-- 💡 Currently working on innovative projects like **ExamAnalysis**  
-- 📘 Passionate about **Web Development**, **Java**, and **Data Structures & Algorithms**  
+💡 Currently working on projects like Retail Store Analysis and ShopNest Power BI Dashboard
 
----
+📘 Skilled in Excel, SQL, Power BI, Python, and Data Visualization
 
-## 🔍 **What I'm Looking For**  
-- 🚀 Seeking **Software Development Internship** opportunities to apply my skills and gain real-world experience  
+🔍 What I'm Looking For
+🚀 Seeking Data Analytics Internship/Job opportunities to apply analytical skills and solve real-world business problems
 
----
+📬 Let's Connect
+💬 I enjoy discussing data-driven insights, business intelligence, and analytics solutions
 
-## 📬 **Let's Connect**  
-- 💬 I enjoy discussing **tech stacks**, **system design**, and **software solutions**  
-- 📫 Reach me at **pradipmali5474@gmail.com**  
-- 🤝 Always open to **collaborating on creative and impactful projects**  
+📫 Reach me at pradipmali5474@gmail.com
 
----
-
+🤝 Always open to collaborating on impactful analytics projects
