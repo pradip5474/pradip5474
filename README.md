@@ -34,5 +34,3 @@
 💬 I enjoy discussing data-driven insights, BI solutions, and new trends in analytics.
 📫 Reach me at: pradipmali5474@gmail.com
 🤝 Always open to collaborating on impactful analytics projects.
-
-👉 This format looks professional, structured, yet engaging for LinkedIn. It balances technical skills + personal flair (fun facts + storytelling).
