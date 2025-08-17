@@ -8,15 +8,21 @@
 ⚡ Fun Facts About Me
 
 ✨ I find joy in storytelling through data – building dashboards feels like designing an interactive storybook 📖, where each chart and KPI tells its own tale.
+
 ✨ I love the challenge of messy datasets 🧩 – cleaning and transforming them is like solving a puzzle until the bigger picture emerges.
+
 ✨ My favorite part of analytics? Watching a static dataset come alive in Power BI dashboards with filters, slicers, and interactive visuals ⚡.
 
 🧰 Tools & Technologies I Work With
 
 🔹 Excel – Advanced formulas, PivotTables, conditional formatting
+
 🔹 SQL – Queries, Joins, Window Functions, CTEs
+
 🔹 Power BI – Data modeling, DAX, interactive dashboards
-🔹 Python (Pandas, NumPy, Matplotlib, scikit-learn) – Data cleaning, visualization, and ML basics
+
+🔹 Python (Pandas, NumPy, Matplotlib) – Data cleaning, visualization, and ML basics
+
 🔹 Data Storytelling – Presenting insights for real-world business decisions
 
 🔍 What I’m Looking For
